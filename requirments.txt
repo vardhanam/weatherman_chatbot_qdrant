@@ -1,0 +1,6 @@
+transformers
+bitsandbytes
+langchain
+gradio
+requests
+qdrant-client
